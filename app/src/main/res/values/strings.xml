@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catalogo de productos</string>
+    <string name="title_main">Categoria:</string>
+    <string name="addAction">Agregar</string>
+    <string name="title_txt_add">Ingresar Producto</string>
+    <string name="hint_txt_add">Nombre Producto</string>
+    <string name="title_spinner">Selecciona su categoria</string>
+    <string name="label_btn_add">Guardar</string>
+
+</resources>
